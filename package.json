@@ -1,0 +1,21 @@
+{
+  "name": "copytoclipboard-modalfilemanagerextention",
+  "version": "1.0.0",
+  "description": "Copies items to the clipboard.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modalfilemanager", "extension"
+  ],
+  "author": "Richard Guay",
+  "license": "MIT",
+  "mfmextension": {
+    "name": "Copy to Clipboard Modal File Manager Extension",
+    "description": "Copies items to the clipboard.",
+    "type": 1,
+    "github": "",
+    "main": "main.js"
+  }
+}
